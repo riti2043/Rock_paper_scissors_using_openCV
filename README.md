@@ -2,11 +2,11 @@
 
 A real-time Rock Paper Scissors game that uses your webcam to detect hand gestures and play against the computer. Hand landmarks are extracted with **MediaPipe** and classified using a small **PyTorch** MLP.
 
-▶️ [Demo video](
+▶️ # Demo video
 
 https://github.com/user-attachments/assets/42b8de77-35c1-4c8e-b3e9-6f774aad948f
 
-) <!-- replace with your uploaded video link/embed -->
+ <!-- replace with your uploaded video link/embed -->
 
 ## How it works
 
